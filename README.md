@@ -6,3 +6,8 @@ For more information about the licence and the documents we've taken ideas from,
 
 ## Introduction
 When we started design our new website, we asked ourselves: "Is it possible to build a product that contains our soul, while being modern and simple to use?" 
+That's why we started from scratch and decided to create **our own Design System** on which the website would be based.
+
+Having a Design System is a key part of building a website, since it:
+- Helps mantaining a consistency throughout the entire project
+-
