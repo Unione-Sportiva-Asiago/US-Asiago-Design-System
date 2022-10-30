@@ -27,3 +27,4 @@ Having a Design System is a key part of building a website, since it:
 The result? A unique and distinctive Design System that mix together our centenary story and today's reality in the team. Something that wants to express the way you will feel if you come ski with us.
 
 ## The various parts of the Design System
+### Typography
