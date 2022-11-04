@@ -28,3 +28,12 @@ The result? A unique and distinctive Design System that mix together our centena
 
 ## The various parts of the Design System
 ### Typography
+
+## Licensing and attributions
+These guidelines were built by taking some inspiration from other great projects. We want to be as transparent as possible by mentioning the work made by others:
+- The _Carbon Design System_ by IBM, the open source design system adopted by the technological company IBM across their website and services.
+- The Country's Design System developed by Designers Italia, an ambitious project from AGiD and the DTD, the Italian Department for Digital Transition, which aim is to develop better interfaces for the digital public services of the future.
+
+This repository and its content are licensed under CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license. This means that:
+- You must mention the owner of the repository (Unione Sportiva Asiago)
+- You can make adaptations of the work and use it for commercial purposes, but you must use the same terms (CC BY-SA 4.0)
