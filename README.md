@@ -1,4 +1,4 @@
-# Our own personal space for _everything_ digital: welcome to the Unione Sportiva Asiago's digital team page :rocket:
+# Dive into the Unione Sportiva Asiago's Design System :rocket:
 
 Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, togheter with the Design System. :raised_hands:
 
