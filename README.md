@@ -1,7 +1,7 @@
 # Dive into the Unione Sportiva Asiago's Design System :rocket:
 > ⚠ PLEASE NOTE: Our Design System will be released in **December 2022**. Come check in a few days! 🙌
 
-Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, togheter with the Design System. :raised_hands:
+Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, together with the Design System. :raised_hands:
 
 For more information about the licence and the documents we've taken ideas from, please refer to `Licensing and attributions` section.
 
