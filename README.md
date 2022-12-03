@@ -1,7 +1,7 @@
 # Dive into the Unione Sportiva Asiago's Design System :rocket:
-> ⚠ PLEASE NOTE: Our Design System will be released in **December 2022**. Come check in a few days! 🙌
+> ⚠ PLEASE NOTE: Our Design System is expected to be released in **December 2022**. Come check in a few days! 🙌
 
-Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, togheter with the Design System. :raised_hands:
+Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, together with the Design System. :raised_hands:
 
 For more information about the licence and the documents we've taken ideas from, please refer to `Licensing and attributions` section.
 
@@ -27,8 +27,12 @@ Having a Design System is a key part of building a website, since it:
 
 The result? A unique and distinctive Design System that mix together our centenary story and today's reality in the team. Something that wants to express the way you will feel if you come ski with us.
 
-## The various parts of the Design System
-### Typography
+## The components parts of the Design System
+> ⚠️ We're applying the last finishes to our Design System. Come check back in a few days!
+<!-- ### Typography
+### Colours
+### Icons
+### Spacing -->
 
 ## Licensing and attributions
 These guidelines were built by taking some inspiration from other great projects. We want to be as transparent as possible by mentioning the work made by others:
