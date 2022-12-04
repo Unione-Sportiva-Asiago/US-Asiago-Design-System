@@ -9,4 +9,7 @@ In the near future, we'd like to introduce other fonts as part of our commitment
 
 ## How to access the document
 We've created an online document with all the information you need. You can find it:
-- 🚀 On our Figma Team, by clicking here (coming later this year)
+- 🚀 On our Figma Team, by [clicking here](https://www.figma.com/proto/x4R1D00oJorhxHxJRRY8pj/Design-System?page-id=82%3A1229&node-id=82%3A1230&viewport=562%2C416%2C0.41&scaling=min-zoom)
+
+## Now to become part of it
+> Soon, we'll release all the information you need to know if you'd like to help us develop our Design System. Stay tuned! 💪
