@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Something's wrong? Let us help you: fill out this template to raise a bug to us.
+about: 'Something is wrong? Let us help you: fill out this template to raise a bug to us.'
 title: ''
 labels: ''
 assignees: ''
