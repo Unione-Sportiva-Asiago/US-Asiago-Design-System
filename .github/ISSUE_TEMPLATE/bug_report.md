@@ -1,23 +1,24 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Something's wrong? Let us help you: fill out this template to raise a bug to us.
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## Information about the bug
 
-**To Reproduce**
-Steps to reproduce the behavior:
+**What happened?**
+Give us a concise and complete descriprion of the bug you found.
+
+**How to reproduce the bug:**
 1. Go to '...'
 2. Click on '....'
 3. Scroll down to '....'
 4. See error
 
-**Expected behavior**
+**What was the expected result?**
 A clear and concise description of what you expected to happen.
 
 **Screenshots**
