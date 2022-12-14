@@ -4,6 +4,7 @@
 Hi! We are the team behind the website and the design sistem of the Unione Sportiva Asiago. In this repository you will find **_all_** the documentation that we've used to style and build our new website, together with the Design System. :raised_hands:
 
 For more information about the licence and the documents we've taken ideas from, please refer to `Licensing and attributions` section.
+> If you hate GitHub, hold tight! In the next months we'll publish these guidelines on our website! 🤞
 
 ## Introduction
 When we started design our new website, we asked ourselves: "Is it possible to build a product that embodies our soul, while being modern and simple to use?" 
