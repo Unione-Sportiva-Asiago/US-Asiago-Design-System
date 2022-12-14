@@ -44,7 +44,9 @@ These guidelines were built by taking some inspiration from other great projects
 This repository and its content are licensed under CC BY-SA 4.0 (Attribution-ShareAlike 4.0 International) license. This means that:
 - You must mention the owner of the repository (Unione Sportiva Asiago)
 - You can make adaptations of the work and use it for commercial purposes, but you must use the same terms (CC BY-SA 4.0)
-<!-- ## Unione Sportiva Asiago's commitment to inclusion, diversity and accessibility
-Here, at the Digital Team and in the whole club, we want to let everyone join our family. That's why our website will comply with the regulations in matter of accessibility. Also, we'll try to use a neutral language to be as inclusive as possible in our communications - personal or general: that's why we encourage you to specify your pronouns when reachin us.
+- 
+## Unione Sportiva Asiago's commitment to inclusion, diversity and accessibility
+Here, at the Digital Team and in the whole club, we want to let everyone join our family. That's why our website will comply with the regulations in matter of accessibility. Also, we'll try to use a neutral language to be as inclusive as possible in our communications - personal or general: that's why we encourage you to specify your pronouns when reaching us. 🙌
 
-Wherever you are in the world, we want to let you know that this is a safe place for you. Freedom is whithin you. -->
+**Wherever you are in the world, we want to let you know that this is a safe place for you. 
+_Freedom is whithin you._**
