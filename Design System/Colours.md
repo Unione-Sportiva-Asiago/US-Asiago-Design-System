@@ -6,4 +6,4 @@ The other ones are all modifications of the base colour, `Bright Navy Blue`. Alt
 
 ## How to access the document
 We've created an online document with all the information you need. You can find it:
-- 🚀 On our Figma Team, by clicking here (coming later this year)
+- 🚀 On our Figma Team, by [clicking here](https://www.figma.com/proto/x4R1D00oJorhxHxJRRY8pj?node-id=1%3A34 )
