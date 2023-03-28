@@ -1,6 +1,9 @@
-# Contributor Covenant Code of Conduct
+# 👩‍⚖️ Contributor Covenant Code of Conduct
+<!-- _Scroll down for the Italian translation_ -->
+> **⚠️ ATTENTION: the email address listed in the document will be active starting late April 2023. Please send your enquires to social.usasiago@gmail.com.**
+<!-- ATTENZIONE: l'indirizzo email elencato nel documento sarà attivo a partire dalla fine di aprile 2023. Puoi inviare le tue richieste a social.usasiago@gmail.com. -->
 
-## Our Pledge
+## Our Pledge 🤝
 
 We as members, contributors, and leaders pledge to make participation in our
 community a harassment-free experience for everyone, regardless of age, body
@@ -12,7 +15,7 @@ and orientation.
 We pledge to act and interact in ways that contribute to an open, welcoming,
 diverse, inclusive, and healthy community.
 
-## Our Standards
+## Our Standards 📏
 
 Examples of behavior that contributes to a positive environment for our
 community include:
@@ -36,7 +39,7 @@ Examples of unacceptable behavior include:
 * Other conduct which could reasonably be considered inappropriate in a
   professional setting
 
-## Enforcement Responsibilities
+## Enforcement Responsibilities 👮‍♂️
 
 Community leaders are responsible for clarifying and enforcing our standards of
 acceptable behavior and will take appropriate and fair corrective action in
@@ -48,7 +51,7 @@ comments, commits, code, wiki edits, issues, and other contributions that are
 not aligned to this Code of Conduct, and will communicate reasons for moderation
 decisions when appropriate.
 
-## Scope
+## Scope 🔍
 
 This Code of Conduct applies within all community spaces, and also applies when
 an individual is officially representing the community in public spaces.
@@ -56,22 +59,22 @@ Examples of representing our community include using an official e-mail address,
 posting via an official social media account, or acting as an appointed
 representative at an online or offline event.
 
-## Enforcement
+## Enforcement 👮‍♂️
 
 Instances of abusive, harassing, or otherwise unacceptable behavior may be
 reported to the community leaders responsible for enforcement at
-social@usasiago.com or via our Social Media Accounts.
+digitalteam@usasiago.com or via our Social Media Accounts.
 All complaints will be reviewed and investigated promptly and fairly.
 
 All community leaders are obligated to respect the privacy and security of the
 reporter of any incident.
 
-## Enforcement Guidelines
+## Enforcement Guidelines 📃
 
 Community leaders will follow these Community Impact Guidelines in determining
 the consequences for any action they deem in violation of this Code of Conduct:
 
-### 1. Correction
+### 1. Correction ✏️
 
 **Community Impact**: Use of inappropriate language or other behavior deemed
 unprofessional or unwelcome in the community.
@@ -80,7 +83,7 @@ unprofessional or unwelcome in the community.
 clarity around the nature of the violation and an explanation of why the
 behavior was inappropriate. A public apology may be requested.
 
-### 2. Warning
+### 2. Warning ⚠️
 
 **Community Impact**: A violation through a single incident or series
 of actions.
@@ -92,7 +95,7 @@ includes avoiding interactions in community spaces as well as external channels
 like social media. Violating these terms may lead to a temporary or
 permanent ban.
 
-### 3. Temporary Ban
+### 3. Temporary Ban 🚫
 
 **Community Impact**: A serious violation of community standards, including
 sustained inappropriate behavior.
@@ -103,7 +106,7 @@ private interaction with the people involved, including unsolicited interaction
 with those enforcing the Code of Conduct, is allowed during this period.
 Violating these terms may lead to a permanent ban.
 
-### 4. Permanent Ban
+### 4. Permanent Ban 🚫
 
 **Community Impact**: Demonstrating a pattern of violation of community
 standards, including sustained inappropriate behavior,  harassment of an
@@ -112,7 +115,7 @@ individual, or aggression toward or disparagement of classes of individuals.
 **Consequence**: A permanent ban from any sort of public interaction within
 the community.
 
-## Attribution
+## Attribution 📃
 
 This Code of Conduct is adapted from the [Contributor Covenant][homepage],
 version 2.0, available at
@@ -126,3 +129,34 @@ enforcement ladder](https://github.com/mozilla/diversity).
 For answers to common questions about this code of conduct, see the FAQ at
 https://www.contributor-covenant.org/faq. Translations are available at
 https://www.contributor-covenant.org/translations.
+
+<!-- # Italian translation: Codice di condotta del contributore
+
+## Il nostro impegno
+Noi, come membri, contributori e leader ci impegniamo a rendere la partecipazione nella nostra _community_ libera da molestie e/o tormenti, senza riguardo verso l'età, la forma fisica, disabilità visibili e invisibili, etnia, caratteristiche sessuali, identità di genere ed espressione, livello di esperienza, educazione, status socio-economico, aspetto fisico, religione, identità sessuale e orientamento sessuale.
+
+Ci impegniamo ad agire e intervenire per contribuire a uno spazio aperto, accogliente, inclusivo, variegato e sano.
+
+## I nostri standard
+Esempi di comportamenti che contribuiscono a creare un ambiente positivo nella nostra _community_ includono:
+
+* Dimostrare empatia e gentilezza verso le altre persone
+* Essere rispettosi di opinioni diverse, punti di vista ed esperienze
+* Dare e accettare con digniità critiche costruttive
+* Accettare le proprie responsabilità e scusarsi a coloro affetti dai nostri errori e imparare dall'esperienza
+* Concentrarsi non su ciò che p meglio per noi come individui, ma per l'intera community
+
+
+Esempi di comportamenti non tollerati sono:
+
+* L'uso di un linguaggio o di immagini sessiste, attenzioni sessuali o avances di ogni tipo
+* Trollare, insultare o pubblicare commenti denigratori, attacchi personali e politici
+* Molestie e/o tormenti pubblici e privati
+* Pubblicare informazioni di altre persone, come un indirizzo fisico o email, senza il loro esplicito consenso
+* Altre condotte che potrebbero essere considerate inappropriate in ambito professionale
+
+## Rafforzamento delle responsabilità
+
+I _Community Leader_ sono responsabili per il chiarimento e il rafforzamento dei nostri standard di comportamenti accettabili e prenderanno le giuste e appropriate azione correttive in risposta a ogni comportamento che loro considerano inappropriato, intimidatorio, offensivo o dannoso.
+
+I _Community Leader_ hanno il diritto e la responsabilità di rimuovere, modificare o rifiutare commenti, _commit_, codice, modifiche al _wiki_, _issues_ e altri contributi che non sono in linea con il presente Codice di Condotta e comunicheranno le ragioni delle loro decisioni, quando appropriato. -->
