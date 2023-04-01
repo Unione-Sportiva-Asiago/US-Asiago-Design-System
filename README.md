@@ -18,11 +18,11 @@ Having a Design System is a key part of building a website, since it:
 ## How did we build Unione Sportiva Asiago's Design System?
 1. We started by analizing the story of our club and we searched for the right colour palette, the one that could help us communicate efficenty our goals and our story. So we opened our wardrobe and looked at our beautiful jacket, made with these beautiful colours:
 
-<!-- Inserisci immagine blu, rosso e giallo-->
+`#0679CC` `#FAA916` `#A61C3C`
 
 2. Then we've added some complementary colours that goes along well with the other ones, red and yellow particularly:
 
-<!-- Immagine altri colori-->
+`#222E50` `#007991` `#C5FFFD`
 
 3. Finally, we closed the PC and went for a ski with the whole team. It's then that we found out that we wanted to convey the uniqueness of every athlete and the sense of family that you can find when you're part of the Team USA. So we've added some shapes - some with sharp angles and some with round corners - to express these last particulars.
 
